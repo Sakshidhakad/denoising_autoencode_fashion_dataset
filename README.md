@@ -102,4 +102,4 @@ https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-dataset
 
 ## 👩‍💻 Author
 
-Mansi Adarsh
+Sakshi Dhakad
